@@ -1,4 +1,4 @@
-//global scope
+//Global scope
 
 this.name = "Gabriel"
 
